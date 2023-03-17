@@ -26,6 +26,12 @@ books = [{
         "bookDescription": "The overwhelming majority of a software system's lifespan is spent in use, not in design or implementation. So, why does conventional wisdom insist that software engineers focus primarily on the design and development of large-scale computing systems?",
         "bookAuthors" : "Betsy Beyer, Chris Jones, Jennifer Petoff"
     },
+    {
+        "bookTitle": "Docker in Action" ,
+        "bookImage": "https://itbook.store/img/books/9781617294761.png",
+        "bookDescription": "Docker in Action, Second Edition  teaches you to create, deploy, and manage applications hosted in Docker containers running on Linux.",
+        "bookAuthors" : "Jeff Nickoloff, Stephen Kuenzli, Bret Fisher"
+    },
 ]
 
 # Schema For the Book Request JSON
